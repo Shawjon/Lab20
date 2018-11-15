@@ -134,7 +134,7 @@ object-fit: fill;
     margin: auto;
 }
 body{
-    background-image: url("photos/Pickle_background.png");
+    background-image: url("Pickle_background.png");
     
     opacity: 1;
     background-size: 100%;
